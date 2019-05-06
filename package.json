@@ -1,7 +1,7 @@
 {
-  "name": "typeorm",
+  "name": "@basebit/typeorm",
   "private": true,
-  "version": "0.2.17",
+  "version": "0.2.17-post.0.0.0",
   "description": "Data-Mapper ORM for TypeScript, ES7, ES6, ES5. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, MongoDB databases.",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/typeorm/typeorm.git"
+    "url": "https://github.com/basebit/typeorm.git"
   },
   "bugs": {
     "url": "https://github.com/typeorm/typeorm/issues"
